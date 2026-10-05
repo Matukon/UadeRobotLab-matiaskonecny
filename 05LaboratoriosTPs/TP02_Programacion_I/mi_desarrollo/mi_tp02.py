@@ -9,7 +9,7 @@
 #    2. Espera a que aparezca la ventana con el robot
 #    3. Recien ahi ejecuta este archivo
 #
-#  Nombre y apellido:  .....................................
+#  Nombre y apellido:  Matías Konecny
 #  Comision:           .....................................
 # =====================================================================
 
